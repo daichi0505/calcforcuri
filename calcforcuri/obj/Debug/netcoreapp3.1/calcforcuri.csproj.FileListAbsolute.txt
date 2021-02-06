@@ -1,0 +1,13 @@
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.exe
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.deps.json
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.runtimeconfig.json
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.runtimeconfig.dev.json
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.dll
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\bin\Debug\netcoreapp3.1\calcforcuri.pdb
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.csprojAssemblyReference.cache
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.AssemblyInfoInputs.cache
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.AssemblyInfo.cs
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.csproj.CoreCompileInputs.cache
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.dll
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.pdb
+C:\Users\ka122\source\repos\calcforcuri\calcforcuri\obj\Debug\netcoreapp3.1\calcforcuri.genruntimeconfig.cache
